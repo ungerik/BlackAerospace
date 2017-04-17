@@ -6,7 +6,5 @@
   "repository": "git@github.com:ungerik/BlackAerospace.git",
   "author": "Erik Unger <erik@erikunger.com>",
   "license": "MIT",
-  "dependencies": {
-    "gitbook-cli": "^2.3.0"
-  }
+  "dependencies": {}
 }
