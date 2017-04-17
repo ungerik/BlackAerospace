@@ -1,0 +1,12 @@
+{
+  "name": "BlackAerospace",
+  "version": "1.0.0",
+  "description": "Black Aerospace Projects",
+  "main": "index.js",
+  "repository": "git@github.com:ungerik/BlackAerospace.git",
+  "author": "Erik Unger <erik@erikunger.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
+}
